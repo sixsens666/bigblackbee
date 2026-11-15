@@ -1,6 +1,6 @@
 local base = "https://raw.githubusercontent.com/sixsens666/bigblackbee/main/"
-local seed = 1820616964
-local assetsHash = "d2b739224d9a"
+local seed = 1101771220
+local assetsHash = "2c5c9b9e0cc8"
 local root = "Bee Swarm/"
 local env = getgenv()
 
